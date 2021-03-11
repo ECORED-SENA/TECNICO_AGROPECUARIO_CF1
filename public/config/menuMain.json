@@ -1,0 +1,81 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "id": 0,
+    "icon": "fa fa-file-text",
+    "slug": "introduccion",
+    "title": "Introducción",    
+    "path": "pages/introduccion.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "desarrollo_rural",
+    "title": "1. Desarrollo rural y políticas agrarias en Colombia",    
+    "path": "pages/tema-1.html"    
+  },
+  {
+    "id": 2,
+    "icon": "fa fa-file-text",
+    "slug": "sistema_nacional_innovacion_agropecuaria",
+    "title": "2. Sistema Nacional de Innovación Agropecuaria (SNIA)",    
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.1 Jerarquía de las normas en Colombia.",
+        "anchor": "tema_2_1"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.2 Sistema Nacional de Innovación Agropecuaria Ley 1876 de diciembre 27 de 2017",
+        "anchor": "tema_2_2"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.3 Resolución 407 de octubre 30 de 2018",
+        "anchor": "tema_2_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.4 Resolución 422 de 05 de julio de 2019",
+        "anchor": "tema_2_4"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.5 Decreto 1319 de 01 de octubre 2020 - Fondo Nacional de Extensión Agropecuaria (FNEA)",
+        "anchor": "tema_2_5"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "sistema_nacional_innovacion_agropecuaria",
+        "title": "2.6 Ley 464 de 29 de diciembre 2017 - Agricultura familiar campesina y comunitaria ACFC",
+        "anchor": "tema_2_6"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "icon": "fa fa-file-text",
+    "slug": "diagnostico_rural_participativo",
+    "title": "3. Diagnóstico rural participativo (DRP)",    
+    "path": "pages/tema-3.html"
+  },
+  {
+    "id": 4,
+    "icon": "fa fa-file-text",
+    "slug": "clasificacion_registro_usuarios",
+    "title": "4. Clasificación y registro de usuarios del servicio público de extensión agropecuaria",    
+    "path": "pages/tema-4.html"
+  }  
+]
